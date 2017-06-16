@@ -1,7 +1,7 @@
 {
   "name": "projectc",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "authors": [
     "Wonseok Chae <wochae@microsoft.com>"
   ],
